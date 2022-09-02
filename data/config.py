@@ -1,0 +1,7 @@
+
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = 'Password08'
+MYSQL_HOST = 'localhost'
+MYSQL_DATABASE = 'qa'
+
+TOKEN = '5647356669:AAG_busl0IEYR7NXddsy1TDwrjGRBAVHCxc'
